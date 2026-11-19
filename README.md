@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm YASHWANT RAJ P 👋
 
-<!--
-**yashwant11raj-cyber/yashwant11raj-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year CSE student at Saveetha Engineering College 🚀
+Building my computer science foundation with the goal of working in **quantum computing**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Interests
+- Quantum computing
+- Cybersecurity
+- Researching random tech and non-tech topics out of curiosity
+
+## 🛠️ Current Skills
+- **Languages:** Python, HTML
+- **Python libraries:** NumPy, Pandas
+- **Other:** Prompt engineering, Git and GitHub
+
+## 📚 Currently Learning
+- NumPy and Pandas in Python
+- HTML and web development fundamentals
+- Prompt engineering and Claude courses
+- Computer architecture, cyberlaw and compliance (college coursework)
+
+## 🎯 Learning Goals
+- Build a strong base in programming and computer architecture
+- Learn quantum computing in depth
+- Explore cybersecurity alongside it
+- Apply what I learn through projects
+
+## 📂 What's Here Right Now
+| Project | Description | Status |
+|---|---|---|
+| **Fundamentals of Web Application Development** | Experiments and exercises from my college course | ✅ Complete |
+| **NASA Space Apps Challenge Project** | [One line about your challenge or idea] | 🚧 In progress |
+
+## 🌱 What's Next
+Once I've built up my skills, I plan to start a project that puts them to use and add it here. Stay tuned!
+
+## 📫 Connect With Me
+- LinkedIn: [your-link]
+- Email: [your-email@example.com]
+
+---
+*Thanks for stopping by! ⭐*
