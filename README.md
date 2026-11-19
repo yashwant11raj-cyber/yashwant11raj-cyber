@@ -37,8 +37,8 @@ Building my computer science foundation with the goal of working in **quantum co
 Once I've built up my skills, I plan to start a project that puts them to use and add it here. Stay tuned!
 
 ## 📫 Connect With Me
-- LinkedIn: [(https://www.linkedin.com/in/yashwant-raj-22143a330/)]
-- Email: [yashwant11raj@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/yashwant-raj-22143a330/
+- Email: yashwant11raj@gmail.com
 
 ---
 *Thanks for stopping by! ⭐*
