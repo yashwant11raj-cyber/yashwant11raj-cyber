@@ -12,7 +12,6 @@ Building my computer science foundation with the goal of working in **quantum co
 
 ## 🛠️ Current Skills
 - **Languages:** Python, HTML
-- **Python libraries:** NumPy, Pandas
 - **Other:** Prompt engineering, Git and GitHub
 
 ## 📚 Currently Learning
