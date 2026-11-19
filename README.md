@@ -8,7 +8,7 @@ Building my computer science foundation with the goal of working in **quantum co
 ## 🔭 Interests
 - Quantum computing
 - Cybersecurity
-- Researching random tech and non-tech topics out of curiosity
+- Researching technical and non-technical topics out of curiosity
 
 ## 🛠️ Current Skills
 - **Languages:** Python, HTML
@@ -18,7 +18,6 @@ Building my computer science foundation with the goal of working in **quantum co
 - NumPy and Pandas in Python
 - HTML and web development fundamentals
 - Prompt engineering and Claude courses
-- Computer architecture, cyberlaw and compliance (college coursework)
 
 ## 🎯 Learning Goals
 - Build a strong base in programming and computer architecture
@@ -34,6 +33,15 @@ Building my computer science foundation with the goal of working in **quantum co
 
 ## 🌱 What's Next
 Once I've built up my skills, I plan to start a project that puts them to use and add it here. Stay tuned!
+
+## 🧭 Direction
+My goal is a role in quantum computing. I haven't decided my path after graduation yet, so I'm building a strong base first.
+
+## 💡 Values
+Curiosity and persistence. I commit to projects that are meaningful and worth finishing.
+
+## 🤝 Open To
+Hackathons and research opportunities.
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/yashwant-raj-22143a330/
