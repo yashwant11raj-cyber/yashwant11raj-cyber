@@ -31,7 +31,7 @@ Building my computer science foundation with the goal of working in **quantum co
 | Project | Description | Status |
 |---|---|---|
 | **Fundamentals of Web Application Development** | Experiments and exercises from my college course | ✅ Complete |
-| **NASA Space Apps Challenge Project** | [One line about your challenge or idea] | 🚧 In progress |
+| **NASA Space Apps Challenge Project** | Build a public web tool that turns NASA SPHEREx near-infrared sky scans into time-lapse sequences so anyone can spot moving or changing celestial objects like asteroids, comets, stars, brown dwarfs, or new planets | 🚧 In progress |
 
 ## 🌱 What's Next
 Once I've built up my skills, I plan to start a project that puts them to use and add it here. Stay tuned!
